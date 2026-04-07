@@ -4,7 +4,6 @@ This is the additional line added by [main]
 This is the additional line added by [dev-user2]
 This is an additional line created by [dev-user1] - for comparison.
 
-
 New section
 Comment #1 
 Comment #2
@@ -14,3 +13,8 @@ Comment Revert #1
 // FIX CODE
 // FIX CODE
 // FIX CODE
+
+New Feature Release Notes:-
+// Note 
+// Note
+// Note 
