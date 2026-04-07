@@ -7,3 +7,4 @@ This is an additional line created by [dev-user1] - for comparison.
 
 New section
 Comment #1 
+Comment #2
